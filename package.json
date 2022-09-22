@@ -1,12 +1,12 @@
 {
-  "name": "ทดสอบระบบครับจ้า",
+  "name": "adfsdnbgrskgnlsfgrg",
   "theme": "syntax",
   "version": "0.2.10",
   "description": "todo-atom",
   "keywords": [
     "todo-atom"
   ],
-  "repository": "https://github.com/PopsanAemaos/todo-atom.git",
+  "repository": "https://github.com/PopsanAemaos/testatom.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
